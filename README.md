@@ -1,1 +1,1 @@
-# docter_bot
+# doctor_bot
